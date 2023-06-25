@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-top: 10%;
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    font-size:1rem;
+    font-weight: bold;
+    font-family: cursive    
+}
+.btn:hover{
+    color: aqua;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
